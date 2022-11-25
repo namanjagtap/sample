@@ -1,0 +1,2192 @@
+[
+    {
+     "Species_Name": "Bees",
+     "Disease_Name": "Abortions",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Bees",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Bees",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Aflatoxicosis",
+     "DiseaseSymptoms": "Retarted growth, Anorexia, Ruffled feathers, Anaemia, Ascites, Ataxia"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Avian Chlamydiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Avian Infectious Bronchitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Avian Infectious Laryngotracheitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Avian Influenza (Bird Flu)",
+     "DiseaseSymptoms": "lack of coordination purple discoloration of the wattles, combs and legs, soft-shelled or misshapen eggs, lack of energy and appetite, swelling of the head, eyelids comb, wattles and hocks, Nasal Discharge, Coughing, Sneezing, decreased egg production, Diarrhea"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Avian Mycoplasmosis (M. Gallisepticum)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Avian Mycoplasmosis (M. Synoviae)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Botulism",
+     "DiseaseSymptoms": "Progressive muscle weakness, Paralysis affecting limbs head & neck incoordination, Inability to rise & lifthed, Chew & drooling of saliva"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Coccidiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Duck Cholera",
+     "DiseaseSymptoms": "loss of appetite, catarrhal discharge from nostril, Drooling of saliva, Greenish diarrhoea, bluish comb & wattle with oedema"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Duck Plague",
+     "DiseaseSymptoms": "droopiness, excess thrust, swollen and sticky eyelids, discharge from eye and nostril, Ruffled feathers, Greenish white diarrhoea, unable to stand, protruding penis in male"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Egg Drop Syndrome",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Fowl Cholera",
+     "DiseaseSymptoms": "Anorexia, Nasal Discharge, Sneezing, Coughing, Bloody Diarrhoea, Cyanosis of comb and wattles, Swollen comb and wattles"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Fowl Pox",
+     "DiseaseSymptoms": "Over featherless area, Respiratory Distress"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Hydropericardial Syndrome (HPS)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Infectious Bursal Disease (Gumboro Disease)",
+     "DiseaseSymptoms": "Ruffled feathers, Diarrhoea, Soiling of vents, Pecking at vents, Ataxia, in clinical stage found, dullness, depression, ruffled feathers, whitish watery diarrhoea, dehydration, prostration with variable mortality according to concomitant infections, In sub-clinical stage, no specific signs except stunted growth and immune suppression"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Listeriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Marek's Disease",
+     "DiseaseSymptoms": "Paralysis of one or both legs, Paralysis of wings, Drooping or hanging of wings, One leg is extended forward and other backward, Blindness in eye form of disease, Incoordination"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "New Castle Disease",
+     "DiseaseSymptoms": "Respiratory Distress, Incoordination, closed eye, Drowsiness, loss of appetite, huddle together, Death occur without enough symptoms in per-acute VVNDV infection, variable according to strain of NDV, Spasms, Paralysis, Diarrhea, Torticollis, Swollen head, Greenish white diarrhoea, Fever, Gasping, Coughing, Sneezing, Rales, Tremors, Paralyzed Wings and Legs, Twisted Necks, Circling"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Pigeon Pox",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Pullorum Disease",
+     "DiseaseSymptoms": "Dead in shell chicks, Drowsiness, Anorexia, Gasping, Soiling of vent, Whitish diarrhoea"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Salmonellosis",
+     "DiseaseSymptoms": "High Fever, Anorexia diarrhea or dysentery, Faeces contain mucus blood, Colic, Fibrinous casts"
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Sarcocystis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Turkey Rhinotracheitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Birds",
+     "Disease_Name": "Vibriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Acid Indigestion",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Actinobacillosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Actinomycosis",
+     "DiseaseSymptoms": "Chronic immobile hard painless swelling of jaw bones, anemia, Absence of tooth, loss of appetite, Breed Predisposition to Fragmented"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Aflatoxicosis",
+     "DiseaseSymptoms": "Retarted growth, Anorexia, Ruffled feathers, Anaemia, Ascites, Ataxia"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Alkaline Indigestion",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Anaplasmosis",
+     "DiseaseSymptoms": "infected cattle will fall behind the rest of the herd and will not eat or drink, Persistent fever, Anorexia, Emaciation, Lacrimation, Nasal Discharge, Dyspnoea, decreased milk production and in some cases death of the animals, cattle can become extremely aggressive due to severe anaemia, clear uterine exudates and contain flocculent, Cattle 1 to 3 years old show more severe clinical signs, Weakness, Cows with light skin will initially look pale around eyes an muzzle but later become yellowish colour (jaundice), weight loss, Constipation, Abortions, Jaundice, anemia, Fever, icterus"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Anthrax",
+     "DiseaseSymptoms": "Vertigo & labored breathing, death usually takes place 2-3 days following infection, affected animal show dullness and depression, Dyspnea, Bleeding from natural orfices like Anus, lymph nodes in the neck region swollen or enlarged, Anorexia, Bloat, Distressed breathing & death, oozing of blood from natural orifices, oedema in the neck, brisket region, Abdomen & flank, Respiratory Distress, Jugular Pulse, Trembling, Grindindg of teeth, anemia, attacking, Depression, Muscle Tremors, High Fever, Difficulty in Breathing Collapses and Dies, Unclotted Blood Exudes, Sometimes Digestive Upsets and Colic, Fever, loss of appetite"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Ascariasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Ascites",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Babesiosis",
+     "DiseaseSymptoms": "Fever, anemia, High Fever, Passage of coffee coloured urinei.e. haemoglobinuria, Jaundice, hyper acute, hemolytic crisis to an in apparent, subclinical infection, In acute form of babesiosis pyrexia, Weakness, mucous membrane pallor, Depression, Malaise, Anorexia, Increase respiration and heart rate., haemoglobinuria.B.bovis involvement of Central nervous system, Jaundice is uncommon in B. gibsoni infection"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Bacillary Haemoglobinuria",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Black Leg\/Black Quarter",
+     "DiseaseSymptoms": "focal gangrenous, emphysematous myositis, loss of appetite, high mortality, crepitus swelling over thigh, upon incision darkish brown fluid oozes out, Fever(106-108*F), Lameness in affected leg, Creptating swelling over hip, Creptating swelling over back, Creptating swelling over Shoulder"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Botulism",
+     "DiseaseSymptoms": "Progressive muscle weakness, Paralysis affecting limbs head & neck incoordination, Inability to rise & lifthed, Chew & drooling of saliva"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Bovine Anaplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Bovine Babesiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Bovine Malignant Catarrhal fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Bovine Spongiform Encephalopathy",
+     "DiseaseSymptoms": "Incubation period 6 months to 4 years, Hyperaesthesia, Ataxia, Staggering, Dashing head against hard objects, Grindindg of teeth, Dyspnoea"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Bovine Tuberculosis (TB)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Bovine Viral diarrhoea",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Brucellosis (Brucella abortus)",
+     "DiseaseSymptoms": "Bursitis (Hygroma), Bull loose sexual desire and remain infertile, Infected animal may carry brucellosis for life, development of fistula of withers and poll-evil, abscess in sternum and fetlock leading to arthiritis, draining sores on the head and neck, abortion & birth of weak piglets, abortion ion bitch, mucoid discharges from genetalia of bitch, Scrotal dermatitis, Opaque vaginal discharge, Orchitis in bull, Abortion mailly in third trimester, Retention of placenta"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Bunostomiasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Campylobacteriosis (Epizootic abortion)",
+     "DiseaseSymptoms": "Abortion in the the 1st trimester, It is sexully transmitted diseases"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Cobalt Deficiency",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Coccidiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Colibacillosis",
+     "DiseaseSymptoms": "Respiratory Distress, Diarrhea, Emaciation, Dullness, Depression, Drowsiness, loss of appetite, swollen abdomen, lameness\/blindness"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Contagious Bovine Pleuropneumonia",
+     "DiseaseSymptoms": "High rise of Temperature, Malaise, Depression, Drop in Milk Production, Anorexia, Oedematous swelling of throat and dewlap, Abortion, panting, reluctant to move"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Copper Deficiency",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Demodicosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Dermatophytosis (Ring Worm)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Downer Cow Syndrome",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Enteritis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Enterotoxaemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Ephemeral Fever",
+     "DiseaseSymptoms": "High rise of Temperature, stiffness, lameness, Muscular tremor with spontaneous recovery within few days"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Foot and Mouth Disease (FMD)",
+     "DiseaseSymptoms": "Diseases causes high rate of morbidity (100%) in all age groups and low mortality(2-5%), Fever (104-106*F), Blisters\/vesicles and ulcers on tongue, Dental pad and oral mucosa, Vesicles&ulcers devlop in interdigital space &on the coronet, Lameness Profuse Salivation, Blisters on the Nose, Salivation, vesicles\/ulcers in oral and tongue epithelium, interdigital wound, lameness, vesicles\/ulcers on udder, Blisters on the Tongue, Blisters on the lips, Depression, Hypersalivation, loss of appetite, Loss of Weight, Drop in Milk Production"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Fungal Mastitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Haemonchosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Haemorrhagic Speticaemia",
+     "DiseaseSymptoms": "localization of oedema in the subcutaneous pocket of  the head, neck, dewlap and brisket region, Oedematous swelling are hot & painful, depression and presence of multiple haemorrhages and signs of pneumonia, death occurs within 24 hrs, lameness, High fever (106-107*F), Profuse Nasal Discharge, Swelling of throt region (submandibular oedema), Difficult \/Snoring Respiration, dewlap and brisket oedema, Fever"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Heat Stroke",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Hepatic Fascioliasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Hypomagnesaemic Tetany",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Hypothermia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Infectious Bovine Rhinotracheitis",
+     "DiseaseSymptoms": "Fever, Nasal Discharge, kerato-conjunctivitis, Respiratory Distress, Abortion in females, Orchitis & infertility in male, Rhinitis, Dyspnoea, pustular vulvovaginitis"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Ketosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Leptospirosis",
+     "DiseaseSymptoms": "Fever, icterus, Abortions"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Listeriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Mastitis",
+     "DiseaseSymptoms": "High Temperature, Hot and painful, Milk contains flakes or Blood clots, Changes on careful examination, Reduce milk yield, Fever, loss of appetite, Udder is hard and swollen"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Metabolic Haemoglobinuria",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Milk Fever",
+     "DiseaseSymptoms": "hyper excitement, tetany, animal sitting on sternum and later stage there is lateral recumbancy of the body, apathetic to eat food"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Monezia Sps",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Nsasl Granuloma",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Oesophagostomiasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Osteomalacia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Paraamphistomiasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Paratuberculosis",
+     "DiseaseSymptoms": "Chronic diarrhoea (may be continuous \/intermittent), Faeces soft, Homogeneous fever is absent, Emmaciation"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Psoroptic Mange",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Rabies",
+     "DiseaseSymptoms": "Furious form-change in behavior, Restlessness and excitement, Sexual excitement, Profuse salivation, Frequent and loud bellowing\/barking with horse voice, Decreased sensation, Hanging of lower jaw and protrusion of tongue, Drooling of saliva, In-coordination in gait, Inability to swallow food and water, Progressive paralysis, Drooling saliva, bellowing, attacking, Incoordination, Paralysis, Anxious, Muscular Weakness, Depression"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Rinderpest",
+     "DiseaseSymptoms": "Fever usually persists for 3 days, Shooting diarrhea, Dehydration, Necrotic ulcers or erosions on oral mucus membrane, Salivation"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Ruminal Tympany",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Salmonellosis",
+     "DiseaseSymptoms": "High Fever, Anorexia diarrhea or dysentery, Faeces contain mucus blood, Colic, Fibrinous casts"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Scabies",
+     "DiseaseSymptoms": "Decreased milk and meat production, Decreased growth rate, Can transmit bacteril, Viral, Irritation\/itching, Anaemia, Loss of body weight, Restlessness, Loss of hair i.e. alopecia"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Shock",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Simple Indigestion",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Stomatitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Tetanus",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Theileriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Thelaziasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Toxemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Toxoplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Trichomoniasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Trichostrongylosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Trichuriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Trypanosomiasis",
+     "DiseaseSymptoms": "Fever, Circling movement, Incoordination, Head pressing against hard objects, Poor apettite, Loss of body weight, wasting type of diseases, immunodefficiencies, oedema of the lower parts of the body, urticarial plaques and petechial haemorrhages of the serous membrane, abortion in case of camels and buffaloes, anemia, convulsions, Blind ness"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Verminous Pneumonia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Vesicular Stomatitis",
+     "DiseaseSymptoms": "Fever, Anorexia, Constipation, Vomition, Purplish decoloration of abdominal skin, Circling, Tremors, Incoordination, convulsions, Paralysis"
+    },
+    {
+     "Species_Name": "Buffaloes",
+     "Disease_Name": "Vibriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Camelidae",
+     "Disease_Name": "Actinomycosis",
+     "DiseaseSymptoms": "Chronic immobile hard painless swelling of jaw bones, anemia, Absence of tooth, loss of appetite, Breed Predisposition to Fragmented"
+    },
+    {
+     "Species_Name": "Camelidae",
+     "Disease_Name": "Anthrax",
+     "DiseaseSymptoms": "Vertigo & labored breathing, death usually takes place 2-3 days following infection, affected animal show dullness and depression, Dyspnea, Bleeding from natural orfices like Anus, lymph nodes in the neck region swollen or enlarged, Anorexia, Bloat, Distressed breathing & death, oozing of blood from natural orifices, oedema in the neck, brisket region, Abdomen & flank, Respiratory Distress, Jugular Pulse, Trembling, Grindindg of teeth, anemia, attacking, Depression, Muscle Tremors, High Fever, Difficulty in Breathing Collapses and Dies, Unclotted Blood Exudes, Sometimes Digestive Upsets and Colic, Fever, loss of appetite"
+    },
+    {
+     "Species_Name": "Camelidae",
+     "Disease_Name": "Foot and Mouth Disease (FMD)",
+     "DiseaseSymptoms": "Diseases causes high rate of morbidity (100%) in all age groups and low mortality(2-5%), Fever (104-106*F), Blisters\/vesicles and ulcers on tongue, Dental pad and oral mucosa, Vesicles&ulcers devlop in interdigital space &on the coronet, Lameness Profuse Salivation, Blisters on the Nose, Salivation, vesicles\/ulcers in oral and tongue epithelium, interdigital wound, lameness, vesicles\/ulcers on udder, Blisters on the Tongue, Blisters on the lips, Depression, Hypersalivation, loss of appetite, Loss of Weight, Drop in Milk Production"
+    },
+    {
+     "Species_Name": "Camelidae",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Camelidae",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cats",
+     "Disease_Name": "Brucellosis (Brucella abortus)",
+     "DiseaseSymptoms": "Bursitis (Hygroma), Bull loose sexual desire and remain infertile, Infected animal may carry brucellosis for life, development of fistula of withers and poll-evil, abscess in sternum and fetlock leading to arthiritis, draining sores on the head and neck, abortion & birth of weak piglets, abortion ion bitch, mucoid discharges from genetalia of bitch, Scrotal dermatitis, Opaque vaginal discharge, Orchitis in bull, Abortion mailly in third trimester, Retention of placenta"
+    },
+    {
+     "Species_Name": "Cats",
+     "Disease_Name": "Dermatophytosis (Ring Worm)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cats",
+     "Disease_Name": "Feline calicivirus",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cats",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cats",
+     "Disease_Name": "Rabies",
+     "DiseaseSymptoms": "Furious form-change in behavior, Restlessness and excitement, Sexual excitement, Profuse salivation, Frequent and loud bellowing\/barking with horse voice, Decreased sensation, Hanging of lower jaw and protrusion of tongue, Drooling of saliva, In-coordination in gait, Inability to swallow food and water, Progressive paralysis, Drooling saliva, bellowing, attacking, Incoordination, Paralysis, Anxious, Muscular Weakness, Depression"
+    },
+    {
+     "Species_Name": "Cats",
+     "Disease_Name": "Tapeworms",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cats",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cats",
+     "Disease_Name": "Toxoplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Abortions",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Acid Indigestion",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Actinobacillosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Actinomycosis",
+     "DiseaseSymptoms": "Chronic immobile hard painless swelling of jaw bones, anemia, Absence of tooth, loss of appetite, Breed Predisposition to Fragmented"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Aflatoxicosis",
+     "DiseaseSymptoms": "Retarted growth, Anorexia, Ruffled feathers, Anaemia, Ascites, Ataxia"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Alkaline Indigestion",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Anaplasmosis",
+     "DiseaseSymptoms": "infected cattle will fall behind the rest of the herd and will not eat or drink, Persistent fever, Anorexia, Emaciation, Lacrimation, Nasal Discharge, Dyspnoea, decreased milk production and in some cases death of the animals, cattle can become extremely aggressive due to severe anaemia, clear uterine exudates and contain flocculent, Cattle 1 to 3 years old show more severe clinical signs, Weakness, Cows with light skin will initially look pale around eyes an muzzle but later become yellowish colour (jaundice), weight loss, Constipation, Abortions, Jaundice, anemia, Fever, icterus"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Anthrax",
+     "DiseaseSymptoms": "Vertigo & labored breathing, death usually takes place 2-3 days following infection, affected animal show dullness and depression, Dyspnea, Bleeding from natural orfices like Anus, lymph nodes in the neck region swollen or enlarged, Anorexia, Bloat, Distressed breathing & death, oozing of blood from natural orifices, oedema in the neck, brisket region, Abdomen & flank, Respiratory Distress, Jugular Pulse, Trembling, Grindindg of teeth, anemia, attacking, Depression, Muscle Tremors, High Fever, Difficulty in Breathing Collapses and Dies, Unclotted Blood Exudes, Sometimes Digestive Upsets and Colic, Fever, loss of appetite"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Ascariasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Ascites",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Aujeszky's Disease (Pseudo rabies)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Babesiosis",
+     "DiseaseSymptoms": "Fever, anemia, High Fever, Passage of coffee coloured urinei.e. haemoglobinuria, Jaundice, hyper acute, hemolytic crisis to an in apparent, subclinical infection, In acute form of babesiosis pyrexia, Weakness, mucous membrane pallor, Depression, Malaise, Anorexia, Increase respiration and heart rate., haemoglobinuria.B.bovis involvement of Central nervous system, Jaundice is uncommon in B. gibsoni infection"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bacillary Haemoglobinuria",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Black Leg\/Black Quarter",
+     "DiseaseSymptoms": "focal gangrenous, emphysematous myositis, loss of appetite, high mortality, crepitus swelling over thigh, upon incision darkish brown fluid oozes out, Fever(106-108*F), Lameness in affected leg, Creptating swelling over hip, Creptating swelling over back, Creptating swelling over Shoulder"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bluetounge",
+     "DiseaseSymptoms": "High rise of Temperature, salivation and lacrimation, Drooling of saliva, muzzles turns dry and burnt appearance, neck & back crack, cyanotic and bluish appearance of tongue, Abortion, udder swollen & ulceration in teat, Swelling of Lips, Tongue and Jaw, Fever, Nasal Discharge, lameness, Enteritis"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Botulism",
+     "DiseaseSymptoms": "Progressive muscle weakness, Paralysis affecting limbs head & neck incoordination, Inability to rise & lifthed, Chew & drooling of saliva"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bovine Anaplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bovine Babesiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bovine Ephemeral Fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bovine Malignant Catarrhal fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bovine Spongiform Encephalopathy",
+     "DiseaseSymptoms": "Incubation period 6 months to 4 years, Hyperaesthesia, Ataxia, Staggering, Dashing head against hard objects, Grindindg of teeth, Dyspnoea"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bovine Tuberculosis (TB)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bovine Tuberculosis(Mycobacterium Bovis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bovine Viral diarrhoea",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Brucellosis (Brucella abortus)",
+     "DiseaseSymptoms": "Bursitis (Hygroma), Bull loose sexual desire and remain infertile, Infected animal may carry brucellosis for life, development of fistula of withers and poll-evil, abscess in sternum and fetlock leading to arthiritis, draining sores on the head and neck, abortion & birth of weak piglets, abortion ion bitch, mucoid discharges from genetalia of bitch, Scrotal dermatitis, Opaque vaginal discharge, Orchitis in bull, Abortion mailly in third trimester, Retention of placenta"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Brucellosis (Brucella Melitensis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Brucellosis (Brucella suis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bulls STD",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Bunostomiasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Campylobacteriosis (Epizootic abortion)",
+     "DiseaseSymptoms": "Abortion in the the 1st trimester, It is sexully transmitted diseases"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Clostridial Diseases",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Cobalt Deficiency",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Coccidiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Colibacillosis",
+     "DiseaseSymptoms": "Respiratory Distress, Diarrhea, Emaciation, Dullness, Depression, Drowsiness, loss of appetite, swollen abdomen, lameness\/blindness"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Contagious Bovine Pleuropneumonia",
+     "DiseaseSymptoms": "High rise of Temperature, Malaise, Depression, Drop in Milk Production, Anorexia, Oedematous swelling of throat and dewlap, Abortion, panting, reluctant to move"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Copper Deficiency",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Cow Pox",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Crimean Congo haemorrhagic fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Demodicosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Dermatophytosis (Ring Worm)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Downer Cow Syndrome",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Dystocia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Enteritis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Enterotoxaemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Ephemeral Fever",
+     "DiseaseSymptoms": "High rise of Temperature, stiffness, lameness, Muscular tremor with spontaneous recovery within few days"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Epizootic Haemorrhagic disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Equine encephalomyelitis (Eastern)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Fascioliasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Foot and Mouth Disease (FMD)",
+     "DiseaseSymptoms": "Diseases causes high rate of morbidity (100%) in all age groups and low mortality(2-5%), Fever (104-106*F), Blisters\/vesicles and ulcers on tongue, Dental pad and oral mucosa, Vesicles&ulcers devlop in interdigital space &on the coronet, Lameness Profuse Salivation, Blisters on the Nose, Salivation, vesicles\/ulcers in oral and tongue epithelium, interdigital wound, lameness, vesicles\/ulcers on udder, Blisters on the Tongue, Blisters on the lips, Depression, Hypersalivation, loss of appetite, Loss of Weight, Drop in Milk Production"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Foot Rot",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Fungal Mastitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Haemonchosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Haemorrhagic Speticaemia",
+     "DiseaseSymptoms": "localization of oedema in the subcutaneous pocket of  the head, neck, dewlap and brisket region, Oedematous swelling are hot & painful, depression and presence of multiple haemorrhages and signs of pneumonia, death occurs within 24 hrs, lameness, High fever (106-107*F), Profuse Nasal Discharge, Swelling of throt region (submandibular oedema), Difficult \/Snoring Respiration, dewlap and brisket oedema, Fever"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Heat Stroke",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Hepatic Fascioliasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Hydatid Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Hypocalceamia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Hypomagnesaemic Tetany",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Hypothermia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Infectious Bovine Rhinotracheitis",
+     "DiseaseSymptoms": "Fever, Nasal Discharge, kerato-conjunctivitis, Respiratory Distress, Abortion in females, Orchitis & infertility in male, Rhinitis, Dyspnoea, pustular vulvovaginitis"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Japanese Encephalitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Johne's Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Ketosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Leptospirosis",
+     "DiseaseSymptoms": "Fever, icterus, Abortions"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Listeriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Mastitis",
+     "DiseaseSymptoms": "High Temperature, Hot and painful, Milk contains flakes or Blood clots, Changes on careful examination, Reduce milk yield, Fever, loss of appetite, Udder is hard and swollen"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Metabolic Haemoglobinuria",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Milk Fever",
+     "DiseaseSymptoms": "hyper excitement, tetany, animal sitting on sternum and later stage there is lateral recumbancy of the body, apathetic to eat food"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Monezia Sps",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "New World Screwworm (Cochliomyia Hominivorax)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Nsasl Granuloma",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Oesophagostomiasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Old World Screwworm (Chrysomya bezziana)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Osteomalacia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Paraamphistomiasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Paratuberculosis",
+     "DiseaseSymptoms": "Chronic diarrhoea (may be continuous \/intermittent), Faeces soft, Homogeneous fever is absent, Emmaciation"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Pinkeye",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Pnuemonia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Psoroptic Mange",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Q Fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Rabies",
+     "DiseaseSymptoms": "Furious form-change in behavior, Restlessness and excitement, Sexual excitement, Profuse salivation, Frequent and loud bellowing\/barking with horse voice, Decreased sensation, Hanging of lower jaw and protrusion of tongue, Drooling of saliva, In-coordination in gait, Inability to swallow food and water, Progressive paralysis, Drooling saliva, bellowing, attacking, Incoordination, Paralysis, Anxious, Muscular Weakness, Depression"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Rift Valleyfever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Rinderpest",
+     "DiseaseSymptoms": "Fever usually persists for 3 days, Shooting diarrhea, Dehydration, Necrotic ulcers or erosions on oral mucus membrane, Salivation"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Ringworm",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Ruminal Tympany",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Salmonellosis",
+     "DiseaseSymptoms": "High Fever, Anorexia diarrhea or dysentery, Faeces contain mucus blood, Colic, Fibrinous casts"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Scabies",
+     "DiseaseSymptoms": "Decreased milk and meat production, Decreased growth rate, Can transmit bacteril, Viral, Irritation\/itching, Anaemia, Loss of body weight, Restlessness, Loss of hair i.e. alopecia"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Shock",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Simple Indigestion",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Stomatitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Surra (Trypanosoma. Evansi)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Tetanus",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Theileriasis",
+     "DiseaseSymptoms": "High fever lasting for several days, Ocular and nasal discharge, Dyspnea, Swelling\/enlargement of superficial lymhnodes, Anaemia-pale mucous membrane, Jaundice- dark yellow colored urine, Anorexia, Lacrimation, Corneal Opacity, increased respiratory rate, diarrhea\/blood stained mucous, Fever, anemia"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Theileriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Thelaziasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Theleiresiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Toxemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Toxoplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Traichinellosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Trichomoniasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Trichomonosis",
+     "DiseaseSymptoms": "Early abortion, Mucopurulent vaginal discharge, Retention of placenta, Pyometra, Demonstration of organism in vaginal discharge"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Trichostrongylosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Trichuriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Trypanosomiasis",
+     "DiseaseSymptoms": "Fever, Circling movement, Incoordination, Head pressing against hard objects, Poor apettite, Loss of body weight, wasting type of diseases, immunodefficiencies, oedema of the lower parts of the body, urticarial plaques and petechial haemorrhages of the serous membrane, abortion in case of camels and buffaloes, anemia, convulsions, Blind ness"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Tularaemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Verminous Pneumonia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Vesicular Stomatities (VS)",
+     "DiseaseSymptoms": "high rise of temperature within 12 hrs, Vesicular lesions containing serious fluids on the mouth, foot and inter digital space,udder, teats"
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Vibriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "West Nile fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Cattle",
+     "Disease_Name": "Wooden Tongue",
+     "DiseaseSymptoms": "Swelling of tongue & lymph nodes of head region, Protrusion of tongue, Salivation"
+    },
+    {
+     "Species_Name": "Cervidae",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Acariasis of Bees",
+     "DiseaseSymptoms": "Abdomen Pelvic or perineal foreign body, anemia, Abnormal Posture"
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Anthrax",
+     "DiseaseSymptoms": "Vertigo & labored breathing, death usually takes place 2-3 days following infection, affected animal show dullness and depression, Dyspnea, Bleeding from natural orfices like Anus, lymph nodes in the neck region swollen or enlarged, Anorexia, Bloat, Distressed breathing & death, oozing of blood from natural orifices, oedema in the neck, brisket region, Abdomen & flank, Respiratory Distress, Jugular Pulse, Trembling, Grindindg of teeth, anemia, attacking, Depression, Muscle Tremors, High Fever, Difficulty in Breathing Collapses and Dies, Unclotted Blood Exudes, Sometimes Digestive Upsets and Colic, Fever, loss of appetite"
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Brucellosis (Brucella abortus)",
+     "DiseaseSymptoms": "Bursitis (Hygroma), Bull loose sexual desire and remain infertile, Infected animal may carry brucellosis for life, development of fistula of withers and poll-evil, abscess in sternum and fetlock leading to arthiritis, draining sores on the head and neck, abortion & birth of weak piglets, abortion ion bitch, mucoid discharges from genetalia of bitch, Scrotal dermatitis, Opaque vaginal discharge, Orchitis in bull, Abortion mailly in third trimester, Retention of placenta"
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Canine Distemper",
+     "DiseaseSymptoms": "Dullness, Depression, Diphasic fever, Ocular and nasal discharge, frequent cutaneous eruptions, Vomition, Abdominal pain, Haemorrhagic Enteritis in Pups, Restlessness, Excitement, Chewing Movements, Excessive Salivation and Convulsions"
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Canine Hepatitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Canine influenza",
+     "DiseaseSymptoms": "attacking"
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Canine Leptosprosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Corona Virus Infection",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Demodicosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Dermatophytosis (Ring Worm)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Hepatitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Hydatid Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Infectious Canine Hepatitis",
+     "DiseaseSymptoms": "Anorexia, Vomition, diarrhea and convulsion, High rise of temperature (105F)"
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Parvovirus Infection",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Rabies",
+     "DiseaseSymptoms": "Furious form-change in behavior, Restlessness and excitement, Sexual excitement, Profuse salivation, Frequent and loud bellowing\/barking with horse voice, Decreased sensation, Hanging of lower jaw and protrusion of tongue, Drooling of saliva, In-coordination in gait, Inability to swallow food and water, Progressive paralysis, Drooling saliva, bellowing, attacking, Incoordination, Paralysis, Anxious, Muscular Weakness, Depression"
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Scabies",
+     "DiseaseSymptoms": "Decreased milk and meat production, Decreased growth rate, Can transmit bacteril, Viral, Irritation\/itching, Anaemia, Loss of body weight, Restlessness, Loss of hair i.e. alopecia"
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Dogs",
+     "Disease_Name": "Toxoplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "African Horse Sickness",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Anthrax",
+     "DiseaseSymptoms": "Vertigo & labored breathing, death usually takes place 2-3 days following infection, affected animal show dullness and depression, Dyspnea, Bleeding from natural orfices like Anus, lymph nodes in the neck region swollen or enlarged, Anorexia, Bloat, Distressed breathing & death, oozing of blood from natural orifices, oedema in the neck, brisket region, Abdomen & flank, Respiratory Distress, Jugular Pulse, Trembling, Grindindg of teeth, anemia, attacking, Depression, Muscle Tremors, High Fever, Difficulty in Breathing Collapses and Dies, Unclotted Blood Exudes, Sometimes Digestive Upsets and Colic, Fever, loss of appetite"
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Bovine Brucellosis (B. Abortus)",
+     "DiseaseSymptoms": "arthritis, Abortion in third trimester, Orchitis"
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Brucellosis (Brucella abortus)",
+     "DiseaseSymptoms": "Bursitis (Hygroma), Bull loose sexual desire and remain infertile, Infected animal may carry brucellosis for life, development of fistula of withers and poll-evil, abscess in sternum and fetlock leading to arthiritis, draining sores on the head and neck, abortion & birth of weak piglets, abortion ion bitch, mucoid discharges from genetalia of bitch, Scrotal dermatitis, Opaque vaginal discharge, Orchitis in bull, Abortion mailly in third trimester, Retention of placenta"
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Contagious Equine Metritis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Dermatophytosis (Ring Worm)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Dourine",
+     "DiseaseSymptoms": "Pyrexia, Mummification and local oedema of the genitalia and mammary glands, knuckling of the joints, Incoordination, Oedematous cutaneous eruptions, Facial Paralysis, ocular lesions, Anaemia, Emaciation, A pathognomonic sign is the oedematous plaque consisting of an elevated lesion in the skin, upto 5-8cm in diameter and 1cm thick"
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Equine colic",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Equine Encephalomyelitis (Western)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Equine Infectious Anaemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Equine Rhinopneumonitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Equine Viral Arteritis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Glanders",
+     "DiseaseSymptoms": "Chronic nasal discharge, Cough, Dyspnea, Ulcers on nasal septum"
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Haemorrhagic Speticaemia",
+     "DiseaseSymptoms": "localization of oedema in the subcutaneous pocket of  the head, neck, dewlap and brisket region, Oedematous swelling are hot & painful, depression and presence of multiple haemorrhages and signs of pneumonia, death occurs within 24 hrs, lameness, High fever (106-107*F), Profuse Nasal Discharge, Swelling of throt region (submandibular oedema), Difficult \/Snoring Respiration, dewlap and brisket oedema, Fever"
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Hydatid Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Rabies",
+     "DiseaseSymptoms": "Furious form-change in behavior, Restlessness and excitement, Sexual excitement, Profuse salivation, Frequent and loud bellowing\/barking with horse voice, Decreased sensation, Hanging of lower jaw and protrusion of tongue, Drooling of saliva, In-coordination in gait, Inability to swallow food and water, Progressive paralysis, Drooling saliva, bellowing, attacking, Incoordination, Paralysis, Anxious, Muscular Weakness, Depression"
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Ringworm",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Strangles",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Toxoplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Trypansomiasis (Surra)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Venezuelan Equine Encephalomyelitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Equidae",
+     "Disease_Name": "Vesicular Stomatities (VS)",
+     "DiseaseSymptoms": "high rise of temperature within 12 hrs, Vesicular lesions containing serious fluids on the mouth, foot and inter digital space,udder, teats"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Aflatoxicosis",
+     "DiseaseSymptoms": "Retarted growth, Anorexia, Ruffled feathers, Anaemia, Ascites, Ataxia"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Anthrax",
+     "DiseaseSymptoms": "Vertigo & labored breathing, death usually takes place 2-3 days following infection, affected animal show dullness and depression, Dyspnea, Bleeding from natural orfices like Anus, lymph nodes in the neck region swollen or enlarged, Anorexia, Bloat, Distressed breathing & death, oozing of blood from natural orifices, oedema in the neck, brisket region, Abdomen & flank, Respiratory Distress, Jugular Pulse, Trembling, Grindindg of teeth, anemia, attacking, Depression, Muscle Tremors, High Fever, Difficulty in Breathing Collapses and Dies, Unclotted Blood Exudes, Sometimes Digestive Upsets and Colic, Fever, loss of appetite"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Aujeszky's Disease (Pseudo rabies)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Black Leg\/Black Quarter",
+     "DiseaseSymptoms": "focal gangrenous, emphysematous myositis, loss of appetite, high mortality, crepitus swelling over thigh, upon incision darkish brown fluid oozes out, Fever(106-108*F), Lameness in affected leg, Creptating swelling over hip, Creptating swelling over back, Creptating swelling over Shoulder"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Bluetounge",
+     "DiseaseSymptoms": "High rise of Temperature, salivation and lacrimation, Drooling of saliva, muzzles turns dry and burnt appearance, neck & back crack, cyanotic and bluish appearance of tongue, Abortion, udder swollen & ulceration in teat, Swelling of Lips, Tongue and Jaw, Fever, Nasal Discharge, lameness, Enteritis"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Botulism",
+     "DiseaseSymptoms": "Progressive muscle weakness, Paralysis affecting limbs head & neck incoordination, Inability to rise & lifthed, Chew & drooling of saliva"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Brucellosis (Brucella abortus)",
+     "DiseaseSymptoms": "Bursitis (Hygroma), Bull loose sexual desire and remain infertile, Infected animal may carry brucellosis for life, development of fistula of withers and poll-evil, abscess in sternum and fetlock leading to arthiritis, draining sores on the head and neck, abortion & birth of weak piglets, abortion ion bitch, mucoid discharges from genetalia of bitch, Scrotal dermatitis, Opaque vaginal discharge, Orchitis in bull, Abortion mailly in third trimester, Retention of placenta"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Brucellosis (Brucella Melitensis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Brucellosis (Brucella suis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Campylobacteriosis (Epizootic abortion)",
+     "DiseaseSymptoms": "Abortion in the the 1st trimester, It is sexully transmitted diseases"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Caprine Arthritis \/ Encephalitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Coccidiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Coenurosis (GID)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Contagious Caprine Pleuropneumonia",
+     "DiseaseSymptoms": "Anorexia, Dullness, Depression, Nasal Discharge, abdominal respiration, fever and dry plain cough"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Contagious Ecthyma",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Crimean Congo haemorrhagic fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Dermatophytosis (Ring Worm)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Enterotoxaemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Enzootic abortion of ewes (Ovine Chlamydiasis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Epizootic Haemorrhagic disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Equine encephalomyelitis (Eastern)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Fascioliasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Foot and Mouth Disease (FMD)",
+     "DiseaseSymptoms": "Diseases causes high rate of morbidity (100%) in all age groups and low mortality(2-5%), Fever (104-106*F), Blisters\/vesicles and ulcers on tongue, Dental pad and oral mucosa, Vesicles&ulcers devlop in interdigital space &on the coronet, Lameness Profuse Salivation, Blisters on the Nose, Salivation, vesicles\/ulcers in oral and tongue epithelium, interdigital wound, lameness, vesicles\/ulcers on udder, Blisters on the Tongue, Blisters on the lips, Depression, Hypersalivation, loss of appetite, Loss of Weight, Drop in Milk Production"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Haemorrhagic Speticaemia",
+     "DiseaseSymptoms": "localization of oedema in the subcutaneous pocket of  the head, neck, dewlap and brisket region, Oedematous swelling are hot & painful, depression and presence of multiple haemorrhages and signs of pneumonia, death occurs within 24 hrs, lameness, High fever (106-107*F), Profuse Nasal Discharge, Swelling of throt region (submandibular oedema), Difficult \/Snoring Respiration, dewlap and brisket oedema, Fever"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Hydatid Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Japanese Encephalitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Johne's Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Leptospirosis",
+     "DiseaseSymptoms": "Fever, icterus, Abortions"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Listeriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Maedi-Visna",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Mastitis",
+     "DiseaseSymptoms": "High Temperature, Hot and painful, Milk contains flakes or Blood clots, Changes on careful examination, Reduce milk yield, Fever, loss of appetite, Udder is hard and swollen"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Nairobi Sheep Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "New World Screwworm (Cochliomyia Hominivorax)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Old World Screwworm (Chrysomya bezziana)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Ovine Epididymitis (Brucella Ovis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Paratuberculosis",
+     "DiseaseSymptoms": "Chronic diarrhoea (may be continuous \/intermittent), Faeces soft, Homogeneous fever is absent, Emmaciation"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Peste des petits ruminants (PPR)\/Enterotaxaemia",
+     "DiseaseSymptoms": "High rise of Temp(40-41 c), formation of small nodular outside of the lips around the muzzle, Severe Depression, loss of appetite, Respiratory Distress, Severe Diarrhea, Ocular Discharge, Fever, Dehydration, weight loss, Abortion, Diarrhoea, Nasal Discharge"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Q Fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Rabies",
+     "DiseaseSymptoms": "Furious form-change in behavior, Restlessness and excitement, Sexual excitement, Profuse salivation, Frequent and loud bellowing\/barking with horse voice, Decreased sensation, Hanging of lower jaw and protrusion of tongue, Drooling of saliva, In-coordination in gait, Inability to swallow food and water, Progressive paralysis, Drooling saliva, bellowing, attacking, Incoordination, Paralysis, Anxious, Muscular Weakness, Depression"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Rift Valleyfever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Rinderpest",
+     "DiseaseSymptoms": "Fever usually persists for 3 days, Shooting diarrhea, Dehydration, Necrotic ulcers or erosions on oral mucus membrane, Salivation"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Ringworm",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Salmonellosis (S. Abortus ovis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Scrapie",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Sheep Pox and Goat Pox",
+     "DiseaseSymptoms": "Appearance of pock lesion on the various sites of skin, Abortion, Fever, Nasal Discharge, Lambs(50%) Mortality Rate, pustules in perineum,inner thigh,over the skin and ear pinna, Conjunctivitis, Unpigmented Skin, Rhinitis"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Surra (Trypanosoma. Evansi)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Toxoplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Traichinellosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Tularaemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Vesicular Stomatities (VS)",
+     "DiseaseSymptoms": "high rise of temperature within 12 hrs, Vesicular lesions containing serious fluids on the mouth, foot and inter digital space,udder, teats"
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "Vibriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Goats",
+     "Disease_Name": "West Nile fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Hares\/Rabbits",
+     "Disease_Name": "Brucellosis (Brucella abortus)",
+     "DiseaseSymptoms": "Bursitis (Hygroma), Bull loose sexual desire and remain infertile, Infected animal may carry brucellosis for life, development of fistula of withers and poll-evil, abscess in sternum and fetlock leading to arthiritis, draining sores on the head and neck, abortion & birth of weak piglets, abortion ion bitch, mucoid discharges from genetalia of bitch, Scrotal dermatitis, Opaque vaginal discharge, Orchitis in bull, Abortion mailly in third trimester, Retention of placenta"
+    },
+    {
+     "Species_Name": "Hares\/Rabbits",
+     "Disease_Name": "Haemorrhagic Speticaemia",
+     "DiseaseSymptoms": "localization of oedema in the subcutaneous pocket of  the head, neck, dewlap and brisket region, Oedematous swelling are hot & painful, depression and presence of multiple haemorrhages and signs of pneumonia, death occurs within 24 hrs, lameness, High fever (106-107*F), Profuse Nasal Discharge, Swelling of throt region (submandibular oedema), Difficult \/Snoring Respiration, dewlap and brisket oedema, Fever"
+    },
+    {
+     "Species_Name": "Hares\/Rabbits",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Hares\/Rabbits",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Aflatoxicosis",
+     "DiseaseSymptoms": "Retarted growth, Anorexia, Ruffled feathers, Anaemia, Ascites, Ataxia"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Anthrax",
+     "DiseaseSymptoms": "Vertigo & labored breathing, death usually takes place 2-3 days following infection, affected animal show dullness and depression, Dyspnea, Bleeding from natural orfices like Anus, lymph nodes in the neck region swollen or enlarged, Anorexia, Bloat, Distressed breathing & death, oozing of blood from natural orifices, oedema in the neck, brisket region, Abdomen & flank, Respiratory Distress, Jugular Pulse, Trembling, Grindindg of teeth, anemia, attacking, Depression, Muscle Tremors, High Fever, Difficulty in Breathing Collapses and Dies, Unclotted Blood Exudes, Sometimes Digestive Upsets and Colic, Fever, loss of appetite"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Aujeszky's Disease (Pseudo rabies)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Black Leg\/Black Quarter",
+     "DiseaseSymptoms": "focal gangrenous, emphysematous myositis, loss of appetite, high mortality, crepitus swelling over thigh, upon incision darkish brown fluid oozes out, Fever(106-108*F), Lameness in affected leg, Creptating swelling over hip, Creptating swelling over back, Creptating swelling over Shoulder"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Bluetounge",
+     "DiseaseSymptoms": "High rise of Temperature, salivation and lacrimation, Drooling of saliva, muzzles turns dry and burnt appearance, neck & back crack, cyanotic and bluish appearance of tongue, Abortion, udder swollen & ulceration in teat, Swelling of Lips, Tongue and Jaw, Fever, Nasal Discharge, lameness, Enteritis"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Botulism",
+     "DiseaseSymptoms": "Progressive muscle weakness, Paralysis affecting limbs head & neck incoordination, Inability to rise & lifthed, Chew & drooling of saliva"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Bovine Brucellosis (B. Abortus)",
+     "DiseaseSymptoms": "arthritis, Abortion in third trimester, Orchitis"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Brucellosis (Brucella abortus)",
+     "DiseaseSymptoms": "Bursitis (Hygroma), Bull loose sexual desire and remain infertile, Infected animal may carry brucellosis for life, development of fistula of withers and poll-evil, abscess in sternum and fetlock leading to arthiritis, draining sores on the head and neck, abortion & birth of weak piglets, abortion ion bitch, mucoid discharges from genetalia of bitch, Scrotal dermatitis, Opaque vaginal discharge, Orchitis in bull, Abortion mailly in third trimester, Retention of placenta"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Brucellosis (Brucella Melitensis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Brucellosis (Brucella suis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Campylobacteriosis (Epizootic abortion)",
+     "DiseaseSymptoms": "Abortion in the the 1st trimester, It is sexully transmitted diseases"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Caprine Arthritis \/ Encephalitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Clostridial Diseases",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Coccidiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Coenurosis (GID)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Contagious Agalactia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Contagious Caprine Pleuropneumonia",
+     "DiseaseSymptoms": "Anorexia, Dullness, Depression, Nasal Discharge, abdominal respiration, fever and dry plain cough"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Contagious Ecthyma",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Crimean Congo haemorrhagic fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Dermatophytosis (Ring Worm)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Enterotoxaemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Enzootic abortion of ewes (Ovine Chlamydiasis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Epizootic Haemorrhagic disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Equine encephalomyelitis (Eastern)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Fascioliasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Foot and Mouth Disease (FMD)",
+     "DiseaseSymptoms": "Diseases causes high rate of morbidity (100%) in all age groups and low mortality(2-5%), Fever (104-106*F), Blisters\/vesicles and ulcers on tongue, Dental pad and oral mucosa, Vesicles&ulcers devlop in interdigital space &on the coronet, Lameness Profuse Salivation, Blisters on the Nose, Salivation, vesicles\/ulcers in oral and tongue epithelium, interdigital wound, lameness, vesicles\/ulcers on udder, Blisters on the Tongue, Blisters on the lips, Depression, Hypersalivation, loss of appetite, Loss of Weight, Drop in Milk Production"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Haemorrhagic Speticaemia",
+     "DiseaseSymptoms": "localization of oedema in the subcutaneous pocket of  the head, neck, dewlap and brisket region, Oedematous swelling are hot & painful, depression and presence of multiple haemorrhages and signs of pneumonia, death occurs within 24 hrs, lameness, High fever (106-107*F), Profuse Nasal Discharge, Swelling of throt region (submandibular oedema), Difficult \/Snoring Respiration, dewlap and brisket oedema, Fever"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Hydatid Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Japanese Encephalitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Johne's Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Leptospirosis",
+     "DiseaseSymptoms": "Fever, icterus, Abortions"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Listeriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Maedi-Visna",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Mastitis",
+     "DiseaseSymptoms": "High Temperature, Hot and painful, Milk contains flakes or Blood clots, Changes on careful examination, Reduce milk yield, Fever, loss of appetite, Udder is hard and swollen"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Nairobi Sheep Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "New World Screwworm (Cochliomyia Hominivorax)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Old World Screwworm (Chrysomya bezziana)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Ovine Epididymitis (Brucella Ovis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Paratuberculosis",
+     "DiseaseSymptoms": "Chronic diarrhoea (may be continuous \/intermittent), Faeces soft, Homogeneous fever is absent, Emmaciation"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Peste des petits ruminants (PPR)\/Enterotaxaemia",
+     "DiseaseSymptoms": "High rise of Temp(40-41 c), formation of small nodular outside of the lips around the muzzle, Severe Depression, loss of appetite, Respiratory Distress, Severe Diarrhea, Ocular Discharge, Fever, Dehydration, weight loss, Abortion, Diarrhoea, Nasal Discharge"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Q Fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Rabies",
+     "DiseaseSymptoms": "Furious form-change in behavior, Restlessness and excitement, Sexual excitement, Profuse salivation, Frequent and loud bellowing\/barking with horse voice, Decreased sensation, Hanging of lower jaw and protrusion of tongue, Drooling of saliva, In-coordination in gait, Inability to swallow food and water, Progressive paralysis, Drooling saliva, bellowing, attacking, Incoordination, Paralysis, Anxious, Muscular Weakness, Depression"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Rift Valleyfever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Rinderpest",
+     "DiseaseSymptoms": "Fever usually persists for 3 days, Shooting diarrhea, Dehydration, Necrotic ulcers or erosions on oral mucus membrane, Salivation"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Ringworm",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Salmonellosis (S. Abortus ovis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Scrapie",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Sheep Pox and Goat Pox",
+     "DiseaseSymptoms": "Appearance of pock lesion on the various sites of skin, Abortion, Fever, Nasal Discharge, Lambs(50%) Mortality Rate, pustules in perineum,inner thigh,over the skin and ear pinna, Conjunctivitis, Unpigmented Skin, Rhinitis"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Surra (Trypanosoma. Evansi)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Toxoplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Traichinellosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Tularaemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Vesicular Stomatities (VS)",
+     "DiseaseSymptoms": "high rise of temperature within 12 hrs, Vesicular lesions containing serious fluids on the mouth, foot and inter digital space,udder, teats"
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Vibriosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "West Nile fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Sheep",
+     "Disease_Name": "Wooden Tongue",
+     "DiseaseSymptoms": "Swelling of tongue & lymph nodes of head region, Protrusion of tongue, Salivation"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Aflatoxicosis",
+     "DiseaseSymptoms": "Retarted growth, Anorexia, Ruffled feathers, Anaemia, Ascites, Ataxia"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "African Swine Fever",
+     "DiseaseSymptoms": "Abnormal color of the beak"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Anthrax",
+     "DiseaseSymptoms": "Vertigo & labored breathing, death usually takes place 2-3 days following infection, affected animal show dullness and depression, Dyspnea, Bleeding from natural orfices like Anus, lymph nodes in the neck region swollen or enlarged, Anorexia, Bloat, Distressed breathing & death, oozing of blood from natural orifices, oedema in the neck, brisket region, Abdomen & flank, Respiratory Distress, Jugular Pulse, Trembling, Grindindg of teeth, anemia, attacking, Depression, Muscle Tremors, High Fever, Difficulty in Breathing Collapses and Dies, Unclotted Blood Exudes, Sometimes Digestive Upsets and Colic, Fever, loss of appetite"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Aujeszky's Disease (Pseudo rabies)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Bluetounge",
+     "DiseaseSymptoms": "High rise of Temperature, salivation and lacrimation, Drooling of saliva, muzzles turns dry and burnt appearance, neck & back crack, cyanotic and bluish appearance of tongue, Abortion, udder swollen & ulceration in teat, Swelling of Lips, Tongue and Jaw, Fever, Nasal Discharge, lameness, Enteritis"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Brucellosis (Brucella abortus)",
+     "DiseaseSymptoms": "Bursitis (Hygroma), Bull loose sexual desire and remain infertile, Infected animal may carry brucellosis for life, development of fistula of withers and poll-evil, abscess in sternum and fetlock leading to arthiritis, draining sores on the head and neck, abortion & birth of weak piglets, abortion ion bitch, mucoid discharges from genetalia of bitch, Scrotal dermatitis, Opaque vaginal discharge, Orchitis in bull, Abortion mailly in third trimester, Retention of placenta"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Brucellosis (Brucella Melitensis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Brucellosis (Brucella suis)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Classical Swine Fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Coccidiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Crimean Congo haemorrhagic fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Dermatophytosis (Ring Worm)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Epizootic Haemorrhagic disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Equine encephalomyelitis (Eastern)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Fascioliasis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Foot and Mouth Disease (FMD)",
+     "DiseaseSymptoms": "Diseases causes high rate of morbidity (100%) in all age groups and low mortality(2-5%), Fever (104-106*F), Blisters\/vesicles and ulcers on tongue, Dental pad and oral mucosa, Vesicles&ulcers devlop in interdigital space &on the coronet, Lameness Profuse Salivation, Blisters on the Nose, Salivation, vesicles\/ulcers in oral and tongue epithelium, interdigital wound, lameness, vesicles\/ulcers on udder, Blisters on the Tongue, Blisters on the lips, Depression, Hypersalivation, loss of appetite, Loss of Weight, Drop in Milk Production"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Haemorrhagic Speticaemia",
+     "DiseaseSymptoms": "localization of oedema in the subcutaneous pocket of  the head, neck, dewlap and brisket region, Oedematous swelling are hot & painful, depression and presence of multiple haemorrhages and signs of pneumonia, death occurs within 24 hrs, lameness, High fever (106-107*F), Profuse Nasal Discharge, Swelling of throt region (submandibular oedema), Difficult \/Snoring Respiration, dewlap and brisket oedema, Fever"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Japanese Encephalitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Leptospirosis",
+     "DiseaseSymptoms": "Fever, icterus, Abortions"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "New World Screwworm (Cochliomyia Hominivorax)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Nipah Virus Encephalitis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Old World Screwworm (Chrysomya bezziana)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Paratuberculosis",
+     "DiseaseSymptoms": "Chronic diarrhoea (may be continuous \/intermittent), Faeces soft, Homogeneous fever is absent, Emmaciation"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Porcine Cysticercosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Porcine Reproductive and Respiratory Syn",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "PseudoRabies",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Q Fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Rabies",
+     "DiseaseSymptoms": "Furious form-change in behavior, Restlessness and excitement, Sexual excitement, Profuse salivation, Frequent and loud bellowing\/barking with horse voice, Decreased sensation, Hanging of lower jaw and protrusion of tongue, Drooling of saliva, In-coordination in gait, Inability to swallow food and water, Progressive paralysis, Drooling saliva, bellowing, attacking, Incoordination, Paralysis, Anxious, Muscular Weakness, Depression"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Rift Valleyfever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Rinderpest",
+     "DiseaseSymptoms": "Fever usually persists for 3 days, Shooting diarrhea, Dehydration, Necrotic ulcers or erosions on oral mucus membrane, Salivation"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Surra (Trypanosoma. Evansi)",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Swine Vesicular Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Toxoplasmosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Traichinellosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Transmissible Gastroenteritis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Tularaemia",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "Vesicular Stomatities (VS)",
+     "DiseaseSymptoms": "high rise of temperature within 12 hrs, Vesicular lesions containing serious fluids on the mouth, foot and inter digital space,udder, teats"
+    },
+    {
+     "Species_Name": "Swine",
+     "Disease_Name": "West Nile fever",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Wild Species",
+     "Disease_Name": "Ehrlichiosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Wild Species",
+     "Disease_Name": "Myxomatosis",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Wild Species",
+     "Disease_Name": "Others",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Wild Species",
+     "Disease_Name": "Rabbit Haemorrhagic Disease",
+     "DiseaseSymptoms": " "
+    },
+    {
+     "Species_Name": "Wild Species",
+     "Disease_Name": "Rabies",
+     "DiseaseSymptoms": "Furious form-change in behavior, Restlessness and excitement, Sexual excitement, Profuse salivation, Frequent and loud bellowing\/barking with horse voice, Decreased sensation, Hanging of lower jaw and protrusion of tongue, Drooling of saliva, In-coordination in gait, Inability to swallow food and water, Progressive paralysis, Drooling saliva, bellowing, attacking, Incoordination, Paralysis, Anxious, Muscular Weakness, Depression"
+    },
+    {
+     "Species_Name": "Wild Species",
+     "Disease_Name": "Toxic Case",
+     "DiseaseSymptoms": " "
+    }
+   ]
